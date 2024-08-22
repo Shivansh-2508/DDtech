@@ -10,22 +10,20 @@ const Discover = () => {
         <p>
           We work closely with our clients to understand their{" "}
           <strong className="font-semibold text-neutral-950">needs</strong> and
-          goals, embedding ourselves in their every day operations to understand
-          what makes their business tick.
+          goals, embedding ourselves in their daily operations to gain a deep
+          understanding of their business dynamics.
         </p>
         <p>
-          Our team of private investigators shadow the company director’s for
-          several weeks while our account managers focus on going through their
-          trash. Our senior security experts then perform social engineering
-          hacks to gain access to their{" "}
-          <strong className="font-semibold text-neutral-950">business</strong>
-          accounts — handing that information over to our forensic accounting
-          team.
+          Our team conducts thorough research and analysis, including
+          stakeholder interviews and process evaluations, to uncover key
+          insights and areas for improvement. We leverage this information to
+          develop tailored strategies that align with your business objectives.
         </p>
         <p>
-          Once the full audit is complete, we report back with a comprehensive
-          <strong className="font-semibold text-neutral-950">plan</strong> and,
-          more importantly, a budget.
+          Upon completion of our comprehensive audit, we provide a detailed
+          <strong className="font-semibold text-neutral-950">plan</strong> and
+          actionable recommendations, along with a clear budget outline to help
+          you achieve your goals efficiently.
         </p>
       </div>
       <h3 className="mt-12 font-display text-base font-semibold text-neutral-950">
@@ -34,10 +32,10 @@ const Discover = () => {
       <TagList className="mt-4">
         <TagListItem>In-depth questionnaires</TagListItem>
         <TagListItem>Feasibility studies</TagListItem>
-        <TagListItem>Blood samples</TagListItem>
         <TagListItem>Employee surveys</TagListItem>
         <TagListItem>Proofs-of-concept</TagListItem>
         <TagListItem>Forensic audit</TagListItem>
+        <TagListItem>Stakeholder interviews</TagListItem>
       </TagList>
     </Section>
   );
