@@ -21,19 +21,12 @@ const Offices = ({ invert = false, ...props }) => {
   return (
     <ul role="list" {...props}>
       <li>
-        <Office name="Turkey" invert={invert}>
-          on bay mark
+        <Office name="Airoli" invert={invert}>
+          Navi Mumbai
           <br />
-          Istanbul, Uskudar
         </Office>
       </li>
-      <li>
-        <Office name="London" invert={invert}>
-          13 Dar sk
-          <br />
-          Turgut Reis cd, dudullu
-        </Office>
-      </li>
+      <li></li>
     </ul>
   );
 };

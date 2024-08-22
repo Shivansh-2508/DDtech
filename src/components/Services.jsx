@@ -11,12 +11,12 @@ const Services = () => {
     <>
       <SectionIntro
         eyebrow="Services"
-        title="We help you identify, explore and respond to new opportunities."
+        title="Unlock New Opportunities with Our Expertise"
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-          As long as those opportunities involve giving us money to re-purpose
-          old projects — we can come up with an endless number of those.
+          We specialize in transforming your ideas into digital reality,
+          leveraging our extensive experience and innovative approach.
         </p>
       </SectionIntro>
       <Container className="mt-16">
@@ -30,26 +30,41 @@ const Services = () => {
               />
             </FadeIn>
           </div>
-          {/* List item */}
           <List className="mt-16 lg:mt-0 lg:w-1/2 lg:min-w-[33rem] lg:pl-4">
-            <ListItem title="Web development">
-              We specialise in crafting beautiful, high quality marketing pages.
-              The rest of the website will be a shell that uses lorem ipsum
-              everywhere.
+            <ListItem title="Web Development">
+              Crafting high-quality, visually appealing marketing pages tailored
+              to your brand. Our team ensures that your website not only looks
+              great but also performs seamlessly.
             </ListItem>
-            <ListItem title="Application development">
-              We have a team of skilled developers who are experts in the latest
-              app frameworks, like React and Google Web Toolkit.
+            <ListItem title="Application Development">
+              Building robust applications using the latest frameworks like
+              React and Flutter. We focus on creating scalable and efficient
+              applications that meet your business needs.
             </ListItem>
             <ListItem title="E-commerce">
-              We are at the forefront of modern e-commerce development. Which
-              mainly means adding your logo to the Shopify store template we’ve
-              used for the past six years.
+              Developing modern e-commerce solutions to enhance your online
+              presence. Our solutions are designed to provide a seamless
+              shopping experience for your customers.
             </ListItem>
-            <ListItem title="Custom content management">
-              At DD Tech we understand the importance of having a robust and
-              customised CMS. That’s why we run all of our client projects out
-              of a single, enormous instance.
+            <ListItem title="Custom Content Management">
+              Providing scalable and customized CMS solutions to meet your
+              unique needs. Our CMS solutions are designed to be user-friendly
+              and adaptable to your specific requirements.
+            </ListItem>
+            <ListItem title="DevOps">
+              Streamlining your development and operations processes with our
+              DevOps services. We help you achieve faster delivery, improved
+              collaboration, and continuous integration and deployment.
+            </ListItem>
+            <ListItem title="AI and Machine Learning">
+              Integrating AI and machine learning solutions to automate
+              processes and enhance decision-making. Our services include custom
+              AI development, model training, and deployment.
+            </ListItem>
+            <ListItem title="UI/UX Design">
+              Creating intuitive and engaging web and app interfaces using Figma
+              and Adobe Photoshop. Our design team focuses on user-centered
+              design principles to deliver exceptional user experiences.
             </ListItem>
           </List>
         </div>
