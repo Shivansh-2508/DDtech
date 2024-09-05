@@ -2,7 +2,7 @@ import Image from "next/image";
 import logoBrightPath from "../images/clients/bright-path/logo-light.svg";
 import logoFamilyFund from "../images/clients/family-fund/logo.jpg";
 import logoGreenLife from "../images/clients/green-life/logo.jpg";
-import logoHomeWork from "../images/clients/home-work/logo.png";
+import logoHomeWork from "../images/clients/home-work/logo.jpg";
 import logoMailSmirk from "../images/clients/mail-smirk/logo-light.svg";
 import logoNorthAdventures from "../images/clients/north-adventures/logo-light.svg";
 import logoPhobiaLight from "../images/clients/phobia/logo.jpg";
