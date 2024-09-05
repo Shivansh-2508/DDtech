@@ -54,7 +54,7 @@ export default function Home() {
       <Clients />
       <Testimonials
         className="mt-24 sm:mt-32 lg:mt-40"
-        client={{ name: "Phobia", logo: logoPhobiaDark }}
+        client={{ name: "", }}
       >
         DD Tech exceeded our expectations, streamlining our onboarding and
         delivering innovative solutions without the usual hassles.
