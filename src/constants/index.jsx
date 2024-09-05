@@ -4,10 +4,10 @@ export const navigation = [
   {
     title: "Work",
     links: [
-      { title: "Pinnacle Group Tuitions", href: "/work/amazonclone" },
-      { title: "Advance Claases", href: "/work/bazar" },
-      { title: "SIPBN", href: "/work/blog101" },
-      { title: "Triot Tech", href: "/work/blog101" },
+      { title: "Pinnacle Group Tuitions", href: "https://www.pinnaclegrouptuitions.in" },
+      { title: "Advance Claases", href: "https://www.advclasses.com" },
+      { title: "SIPBN", href: "https://www.sipbn.com.au" },
+      { title: "Triot Tech", href: "https://troittech.vercel.app" },
       {
         title: (
           <>

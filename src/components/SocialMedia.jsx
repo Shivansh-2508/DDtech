@@ -9,25 +9,25 @@ import {
 } from "react-icons/bs";
 
 export const SocialMediaProfiles = [
-  {
-    title: "Youtube",
-    href: "https://www.youtube.com/",
-    icon: BsYoutube,
-  },
-  { title: "GitHub", href: "https://github.com/DD Tech-04/", icon: BsGithub },
-  {
-    title: "Facebook",
-    href: "https://www.facebook.com/",
-    icon: BsFacebook,
-  },
+  // {
+  //   title: "Youtube",
+  //   href: "https://www.youtube.com/",
+  //   icon: BsYoutube,
+  // },
+  // { title: "GitHub", href: "https://github.com/DD Tech-04/", icon: BsGithub },
+  // {
+  //   title: "Facebook",
+  //   href: "https://www.facebook.com/",
+  //   icon: BsFacebook,
+  // },
   {
     title: "Instagram",
-    href: "https://www.linkedin.com/in/",
+    href: "https://www.instagram.com/theddtech?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     icon: BsLinkedin,
   },
   {
     title: "Twitter",
-    href: "https://twitter.com/ibrahh__ib/",
+    href: "https://twitter.com/TheDD_Tech/",
     icon: BsTwitter,
   },
 ];

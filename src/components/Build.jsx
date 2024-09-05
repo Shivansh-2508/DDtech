@@ -27,13 +27,13 @@ const Build = () => {
           changes.
         </p>
       </div>
-      <Blockquote
+      {/* <Blockquote
         author={{ name: "Debra Fiscal", role: "CEO of Unseal" }}
         className="mt-12"
       >
         DD Tech were so regular with their progress updates we almost began to think
         they were automated!
-      </Blockquote>
+      </Blockquote> */}
     </Section>
   );
 };
