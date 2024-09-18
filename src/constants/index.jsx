@@ -28,7 +28,7 @@ export const navigation = [
       { title: "Process", href: "/process" },
       { title: "Blog", href: "/blog" },
       { title: "Contact us", href: "/contact" },
-      { title: "Login", href: "/login" },
+      // { title: "Login", href: "/login" },
     ],
   },
   {
