@@ -6,6 +6,7 @@ import {
   BsGithub,
   BsYoutube,
   BsLinkedin,
+  BsInstagram,
 } from "react-icons/bs";
 
 export const SocialMediaProfiles = [
@@ -23,6 +24,11 @@ export const SocialMediaProfiles = [
   {
     title: "Instagram",
     href: "https://www.instagram.com/theddtech?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    icon: BsInstagram,
+  },
+  {
+    title: "Linkedin",
+    href: "https://www.linkedin.com/company/dd-technology-ltd/posts/?feedView=all",
     icon: BsLinkedin,
   },
   {

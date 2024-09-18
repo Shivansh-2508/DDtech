@@ -4,7 +4,10 @@ export const navigation = [
   {
     title: "Work",
     links: [
-      { title: "Pinnacle Group Tuitions", href: "https://www.pinnaclegrouptuitions.in" },
+      {
+        title: "Pinnacle Group Tuitions",
+        href: "https://www.pinnaclegrouptuitions.in",
+      },
       { title: "Advance Claases", href: "https://www.advclasses.com" },
       { title: "SIPBN", href: "https://www.sipbn.com.au" },
       { title: "Triot Tech", href: "https://troittech.vercel.app" },
@@ -25,6 +28,7 @@ export const navigation = [
       { title: "Process", href: "/process" },
       { title: "Blog", href: "/blog" },
       { title: "Contact us", href: "/contact" },
+      { title: "Login", href: "/login" },
     ],
   },
   {

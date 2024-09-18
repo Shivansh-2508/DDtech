@@ -25,13 +25,15 @@ const Header = ({
   return (
     <Container>
       <div className="flex items-center justify-between">
-        {/* Logo */}
         <Link href={"/"} aria-label="Home">
           <Logo invert={invert}>DD Technologies</Logo>
         </Link>
         <div className="flex items-center gap-x-8">
           <Button href={"/contact"} invert={invert}>
             Contact us
+          </Button>
+          <Button href={"/login"} invert={invert}>
+            Login
           </Button>
           <button
             ref={toggleRef}
