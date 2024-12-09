@@ -10,7 +10,8 @@ export const navigation = [
       },
       { title: "Advance Claases", href: "https://www.advclasses.com" },
       { title: "SIPBN", href: "https://www.sipbn.com.au" },
-      { title: "Triot Tech", href: "https://troittech.vercel.app" },
+      { title: "TeamFullStack", href: "https://teamfullstack.in" },
+      // { title: "Triot Tech", href: "https://troittech.vercel.app" },
       {
         title: (
           <>
